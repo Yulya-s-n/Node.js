@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "В этом репозитории собраны ваши домашние задания к каждой лекции.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Yulya-s-n/Node.js.git"
+  },
+  "author": "\u0016Yulya-s-n",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yulya-s-n/Node.js/issues"
+  },
+  "homepage": "https://github.com/Yulya-s-n/Node.js#readme"
+}
